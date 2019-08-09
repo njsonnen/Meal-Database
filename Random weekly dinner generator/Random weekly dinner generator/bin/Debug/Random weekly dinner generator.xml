@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Random weekly dinner generator
+</name>
+</assembly>
+<members>
+<member name="T:Random_weekly_dinner_generator.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.Burgers">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.cooking_wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.Cranberry_Chicken">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.Spagetti">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.Tacos">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Random_weekly_dinner_generator.My.Resources.Resources.Terriakyi_Chicken_wcaliflower_rice_and_vegetables">
+<summary>
+  Looks up a localized string similar to Terriakyi Chicken w/califlower rice and vegetables
+
+- ingredients (aldi):
+1. Carrots
+2. Green Peppers
+3. Chicken breast
+4. eggs
+5. terriakyi sauce
+6. rice/califlower rice
+7. Mushrooms
+
+1. scrape carrots of the shitty layer
+2. dice up carrots and green peppers (remove the stems and wash out green peppers)
+3. get the 2 frying pans hot, one about medium heat for vegetables
+4. dice up chicken and put butter in the pan for vegetables. Throw both chicken and vegetables on (mushrooms later)
+5. keep  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

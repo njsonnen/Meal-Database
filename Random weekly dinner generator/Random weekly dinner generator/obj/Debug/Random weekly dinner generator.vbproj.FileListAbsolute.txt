@@ -1,0 +1,12 @@
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\bin\Debug\Random weekly dinner generator.exe.config
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\bin\Debug\Random weekly dinner generator.exe
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\bin\Debug\Random weekly dinner generator.pdb
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\bin\Debug\Random weekly dinner generator.xml
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random weekly dinner generator.vbprojAssemblyReference.cache
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random_weekly_dinner_generator.Form1.resources
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random_weekly_dinner_generator.Resources.resources
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random weekly dinner generator.vbproj.GenerateResource.cache
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random weekly dinner generator.vbproj.CoreCompileInputs.cache
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random weekly dinner generator.exe
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random weekly dinner generator.xml
+C:\Users\nsonnenberg\source\repos\Random weekly dinner generator\Random weekly dinner generator\obj\Debug\Random weekly dinner generator.pdb
